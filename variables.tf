@@ -7,7 +7,7 @@ variable profile {
 }
 
 variable key_path {
-    default = "keys/keypair.pub"
+    default = ""
 }
 
 
